@@ -17,6 +17,7 @@
 		7488690B2AA52AD100F45F77 /* ExampleOfIntroSlidder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488690A2AA52AD100F45F77 /* ExampleOfIntroSlidder.swift */; };
 		7488690D2AA52BFD00F45F77 /* ExampleOfIntroProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488690C2AA52BFC00F45F77 /* ExampleOfIntroProgressView.swift */; };
 		7488690F2AA52C7000F45F77 /* ExampleOfIntroDatePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7488690E2AA52C7000F45F77 /* ExampleOfIntroDatePicker.swift */; };
+		748869112AA52FD500F45F77 /* ExampleLabelControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 748869102AA52FD500F45F77 /* ExampleLabelControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		7488690A2AA52AD100F45F77 /* ExampleOfIntroSlidder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleOfIntroSlidder.swift; sourceTree = "<group>"; };
 		7488690C2AA52BFC00F45F77 /* ExampleOfIntroProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleOfIntroProgressView.swift; sourceTree = "<group>"; };
 		7488690E2AA52C7000F45F77 /* ExampleOfIntroDatePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleOfIntroDatePicker.swift; sourceTree = "<group>"; };
+		748869102AA52FD500F45F77 /* ExampleLabelControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleLabelControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				7488690A2AA52AD100F45F77 /* ExampleOfIntroSlidder.swift */,
 				7488690C2AA52BFC00F45F77 /* ExampleOfIntroProgressView.swift */,
 				7488690E2AA52C7000F45F77 /* ExampleOfIntroDatePicker.swift */,
+				748869102AA52FD500F45F77 /* ExampleLabelControl.swift */,
 				748868FA2AA5089600F45F77 /* Assets.xcassets */,
 				748868FC2AA5089600F45F77 /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 				748868F72AA5089500F45F77 /* MetaIntroUIElementsApp.swift in Sources */,
 				7488690D2AA52BFD00F45F77 /* ExampleOfIntroProgressView.swift in Sources */,
 				748869072AA5274F00F45F77 /* Notes.swift in Sources */,
+				748869112AA52FD500F45F77 /* ExampleLabelControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
